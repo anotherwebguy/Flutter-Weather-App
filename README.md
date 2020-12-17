@@ -17,4 +17,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
-<imgsrc="Screenshot_1608179841.png">
+<img src="Screenshot_1608179841.png">
+<img src="Screenshot_1608179865.png">
+<img src="Screenshot_1608179875.png">
